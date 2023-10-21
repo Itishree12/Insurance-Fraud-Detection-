@@ -11,7 +11,7 @@ The project is organized as follows:
 - `Data/`: Contains the dataset used for model training.
 - `EDA/`: Jupyter notebooks used for EDA.
 - `Model/`: Python source code for data preprocessing, feature selection, and model development.
-- `README.md`: You are here, providing an overview of the project.
+- `README.md`: Overview of the project.
 
 ## Data
 

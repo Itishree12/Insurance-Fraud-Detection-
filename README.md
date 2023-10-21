@@ -21,6 +21,7 @@ The dataset used for this project is located in the `data/` directory. It includ
 
 The `notebooks/EDA.ipynb` notebook contains the EDA process. It includes data visualization, statistical analysis, and insights into the dataset. EDA helps in understanding the data, identifying patterns, and uncovering potential features that can be used for model development.
 
+
 ## Feature Selection
 
 Feature selection is a crucial step in building an effective machine learning model. The `notebooks/Feature_Selection.ipynb` notebook explores different feature selection techniques, including statistical tests and feature importance from machine learning models. The selected features are then used for model development.
@@ -31,13 +32,14 @@ The machine learning model is developed in the `notebooks/Model_Development.ipyn
 
 ## Model Evaluation
 
+
 The model is evaluated using standard machine learning metrics such as accuracy, precision, recall, F1-score, and ROC AUC. The evaluation results are presented in the respective notebooks.
 
 ## Screenshots
 
-![App Screenshot](Screenshot 2023-10-21 at 3.19.04 PM.png)
+![Screenshot 2023-10-21 at 3 19 04 PM](https://github.com/Itishree12/Insurance-Fraud-Detection-/assets/121350293/bcc5a6cd-1099-46df-908c-e6049be5d377)
 
-![App Screenshot](https://drive.google.com/file/d/1ursKtX0vLrfOg7gDVU_jtXMuWCwLL6-L/view?usp=sharing)
+![Screenshot 2023-10-21 at 3 22 32 PM](https://github.com/Itishree12/Insurance-Fraud-Detection-/assets/121350293/ef5934d8-0a18-4ac8-95c9-e1c0cb38cfe0)
 
 
 ## How to Run

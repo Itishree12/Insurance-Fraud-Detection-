@@ -42,21 +42,7 @@ The model is evaluated using standard machine learning metrics such as accuracy,
 ![Screenshot 2023-10-21 at 3 22 32 PM](https://github.com/Itishree12/Insurance-Fraud-Detection-/assets/121350293/ef5934d8-0a18-4ac8-95c9-e1c0cb38cfe0)
 
 
-## How to Run
-
-To run this project on your local machine, follow these steps:
-
-1. Clone this repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd insurance-claim-detection`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Open and run the Jupyter notebooks in the `notebooks/` directory in the specified order (EDA, Feature_Selection, Model_Development).
-
-## Dependencies
-
-This project relies on various Python libraries and packages. The primary dependencies can be found in the `requirements.txt` file. You can install them using `pip`.
 ## Installation
-
-Install my-project with npm
 
 ```bash
 pip install numpy 

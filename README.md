@@ -35,8 +35,7 @@ The model is evaluated using standard machine learning metrics such as accuracy,
 
 ## Screenshots
 
-![App Screenshot](Insurance-Fraud-Detection-
-/Screenshot 2023-10-21 at 3.19.04 PM.png)
+![App Screenshot](Screenshot 2023-10-21 at 3.19.04 PM.png)
 
 ![App Screenshot](https://drive.google.com/file/d/1ursKtX0vLrfOg7gDVU_jtXMuWCwLL6-L/view?usp=sharing)
 

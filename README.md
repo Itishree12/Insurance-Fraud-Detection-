@@ -8,9 +8,9 @@ This repository contains the code and resources for an insurance claim detection
 
 The project is organized as follows:
 
-- `data/`: Contains the dataset used for model training.
-- `notebooks/`: Jupyter notebooks used for EDA, feature selection, and model development.
-- `src/`: Python source code for data preprocessing, feature selection, and model development.
+- `Data/`: Contains the dataset used for model training.
+- `EDA/`: Jupyter notebooks used for EDA.
+- `Model/`: Python source code for data preprocessing, feature selection, and model development.
 - `README.md`: You are here, providing an overview of the project.
 
 ## Data

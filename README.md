@@ -15,7 +15,7 @@ The project is organized as follows:
 
 ## Data
 
-The dataset used for this project is located in the `data/` directory. It includes information related to insurance claims, such as claimant details, policy information, and the outcome of the claim (fraudulent or not). The dataset is split into training and testing sets.
+The dataset used for this project is located in the directory Datset. It includes information related to insurance claims, such as claimant details, policy information, and the outcome of the claim (fraudulent or not). The dataset is split into training and testing sets.
 
 ## EDA (Exploratory Data Analysis)
 

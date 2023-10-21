@@ -33,6 +33,13 @@ The machine learning model is developed in the `notebooks/Model_Development.ipyn
 
 The model is evaluated using standard machine learning metrics such as accuracy, precision, recall, F1-score, and ROC AUC. The evaluation results are presented in the respective notebooks.
 
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/11f-93bMbnRvsJGFoSeEx9l8z7k_jjvUt/view?usp=sharing)
+
+![App Screenshot](https://drive.google.com/file/d/1ursKtX0vLrfOg7gDVU_jtXMuWCwLL6-L/view?usp=sharing)
+
+
 ## How to Run
 
 To run this project on your local machine, follow these steps:
